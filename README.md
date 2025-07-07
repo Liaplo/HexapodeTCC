@@ -14,7 +14,7 @@ Rodar projeto no Google Colab
     <li>Acesse o link:</li>
     <link>https://colab.research.google.com/</link>
     <li>Em Arquivo escolha Abrir notebook</li>
-    <li>Escolha o arquivo DesafioAnalytics.ipynb</li>
+    <li>Escolha o arquivo HexapodeTCC.ipynb</li>
     <li>Execute as células</li>
   </ol>
 </h3>
